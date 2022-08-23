@@ -26,13 +26,19 @@
     {% endif %}
 
     {% if sidebar.telegram %}
-    <li class="telegram"><i class="fab fa-telegram"></i>
+    <li class="telegram"><i class="fab fa-telegram-plane"></i>
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
     </li>
     {% endif %}
 
+    {% if sidebar.discord %}
+    <li class="discord"><i class="fa-brands fa-discord"></i>
+      <a href="https://discordapp.com/users//{{ sidebar.discord }}" target="_blank">{{ sidebar.discord }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
+    <li class="website"><i class="fa-solid fa-earth-asia"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}

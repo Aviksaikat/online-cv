@@ -14,111 +14,87 @@ sidebar:
   # Sidebar links
   email: saikickkarma@outlook.com
   phone: +918918127435
-  timezone: America/Cancun Timezone
+  timezone: Asia/Kolkata
   citizenship:
   website: aviksaikat.github.io #do not add http://
   linkedin: saikat-karmakar-0ab183154
   #xing: alandoe
   github: aviksaikat
-  telegram: # add your nickname without '@' sign
+  telegram: capta1n_l3v1 # add your nickname without '@' sign
   gitlab: aviksaikat
   bitbucket:
   twitter: "@Avik_Saikat"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
+  discord: avik_shelby#8604
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: http://aviksaikat.github.io/online-cv/cv-pdf
 
   languages:
     - idiom: English
-      level: Native
-
-    - idiom: French
       level: Professional
 
-    - idiom: Spanish
+    - idiom: Bengali
+      level: Native
+
+    - idiom: Hindi
       level: Professional
 
   interests:
-    - item: Climbing
+    - item: Pentesting
       link:
 
-    - item: Snowboarding
+    - item: Playing CTFs
       link:
 
-    - item: Cooking
+    - item: Cricket
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Cyber Security Enthusiast, eJPT, CTF player, Yogosha Member, Learning blockchain & smart contracts pentesting, TryHackme Top 1500 Global. 
+    Red Team guy with a keen interest in Blue Teaming(I.e. Purple team)
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BTech. in Information Technology
+    university: Techno International Newtown
+    time: 2018 - 2022
+    grade: CGPA - 8.66/10
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - CGPA : 8.66/10
+      - Bullet point
+  # - degree: BSc in Applied Mathematics
+  #   university: Bristol University
+  #   time: 2007 - 2011
+  #   details: |
+  #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #     pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Penetration Testing Intern
+    time: Oct 2021 – Dec 2021
+    company: Virtually Testing Foundation
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Penetration Testing on different
+      - Reporting & Documentation
+  - role: Security Consultant Intern
+    time: Sept 2021 – Nov 2021
+    company: SecureLayer7
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Penetration Tests onWeb Applications, Internal & External Networks
+      - Vulnerability Assessment
+      - Reporting & Documentation
+  - role: Security Engineer Intern
+    time: Aug 2021 – Sept 2021
+    company: BugBase
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Web Application Penetration Testing
+      - Report writing
+      - Reporting & Documentation
 projects:
   title: Projects
   intro: >
@@ -126,53 +102,55 @@ projects:
     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: LinGhost
+      link: "https://github.com/Aviksaikat/LinGhost"
+      tagline: "Linux Privilege Escalation tool"
+      # language: "Python"
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Writeups
+      link: "https://github.com/Aviksaikat/WalkThroughs"
+      tagline: "Capture the Flag ChallengeWriteups & automated scripts to share and improve cybersecurity. Write guides and solutions for various CTFs problems"
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Blog
+      link: "https://aviksaikat.github.io/write-ups/"
+      tagline: "Writeups on different categories of CTF challenges including smart contracts"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    # - title: Atom
+    #   link: "#"
+    #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    # - title: Delta
+    #   link: "#"
+    #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#       link: "#"
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
-
+#     - title: A syntax directed compiler for Algol 60
+#       link: "#"
+#       authors: Edgar T. Irons
+#       conference: "Comm. ACM 4 (1961), 51–55"
+certifications:
+  title: "eLearnSecurity Junior Penetration Tester (eJPT)"
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+    - name: Python
       level: 98%
 
     - name: Javascript & jQuery

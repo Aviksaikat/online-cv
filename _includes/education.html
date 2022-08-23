@@ -9,10 +9,12 @@
 
     {% for graduation in education %}
     <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
+      <div class="degree">{{ graduation.degree }}</div>
       <h5 class="meta">{{ graduation.university }}</h5>
+      <div class="grade">{{graduation.grade }}</div>
       <div class="time">{{ graduation.time }}</div>
-    </div><!--//item-->
+    </div>
+    <!--//item-->
     {% endfor %}
 
   </div><!--//education-container-->
@@ -38,6 +40,7 @@
         </div><!--//upper-row-->
 
         <div class="university">{{ graduation.university }}</div>
+        <div class="grade">{{graduation.grade }}</div>
       </div><!--//meta-->
 
       {% if graduation.details %}
