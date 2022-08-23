@@ -145,7 +145,18 @@ projects:
 #       authors: Edgar T. Irons
 #       conference: "Comm. ACM 4 (1961), 51–55"
 certifications:
-  title: "eLearnSecurity Junior Penetration Tester (eJPT)"
+  - title: "eLearnSecurity Junior Penetration Tester (eJPT)"
+    time: July 2021
+    details: eLearnSecurity
+  - title: "Essential,White, Serialize Badge"
+    time: 2021
+    details: PentesterLab
+  - title: "Web Applications for Everybody Specialization"
+    time: 2020
+    details: Coursera
+  - title: "6.00.1x:Introduction to Computer Science and Programming Using Python"
+    time: 2018
+    details: MITx on edX
 skills:
   title: Skills &amp; Proficiency
 
