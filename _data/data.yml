@@ -164,20 +164,30 @@ skills:
     - name: Python
       level: 98%
 
-    - name: Javascript & jQuery
+    - name: C
       level: 98%
 
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
+    - name: Kali Linux/ Parrot OS
       level: 95%
 
-    - name: Ruby on Rails
+    - name: Bash
+      level: 93%
+
+    - name: Solidity
       level: 85%
 
-    - name: Sketch & Photoshop
+    - name: C++
+      level: 75%
+
+    - name: Go
       level: 60%
+
+    - name: Rust
+      level: 60%
+
+    - name: JavaScript
+      level: 60%
+
 competitions:
   - title: "Yogosha Christmas CTF"
     time: July 2021
